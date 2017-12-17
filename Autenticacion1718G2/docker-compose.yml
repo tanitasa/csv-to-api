@@ -1,0 +1,23 @@
+version: '2'
+services:
+  db:
+   image: mysql
+   environment:
+     MYSQL_ROOT_PASSWORD: egc
+     MYSQL_DATABASE: autenticaciondb
+     MYSQL_USER: egc
+     MYSQL_PASSWORD: egc
+
+  djangorest:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+volumes:
+  db_data:
+    external: true
