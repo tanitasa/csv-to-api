@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+Autenticacion1718G2.__init__|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/__init__.py
+Autenticacion1718G2.settings|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/settings.py
+Autenticacion1718G2.urls|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/urls.py
+Autenticacion1718G2.wsgi|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/wsgi.py
+manage|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/manage.py
+principal.__init__|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/__init__.py
+principal.admin|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/admin.py
+principal.apps|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/apps.py
+principal.migrations.0001_initial|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/migrations/0001_initial.py
+principal.migrations.__init__|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/migrations/__init__.py
+principal.models|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/models.py
+principal.serializers|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/serializers.py
+principal.tests|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/tests.py
+principal.views|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/views.py

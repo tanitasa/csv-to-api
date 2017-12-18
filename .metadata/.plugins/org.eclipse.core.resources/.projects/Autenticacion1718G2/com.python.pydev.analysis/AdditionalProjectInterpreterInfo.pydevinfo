@@ -1,0 +1,95 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/Tania/Desktop/GitHub/csv-to-api/.metadata/.plugins/org.eclipse.core.resources/.projects/Autenticacion1718G2/com.python.pydev.analysis/v2_indexcache
+principal.admin|1513040916000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/admin.py
+principal.serializers|1513177352000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/serializers.py
+Autenticacion1718G2.__init__|1513040908000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/__init__.py
+Autenticacion1718G2.wsgi|1513040908000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/wsgi.py
+principal.models|1513191998000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/models.py
+principal.apps|1513040912000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/apps.py
+principal.migrations.0001_initial|1513415831000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/migrations/0001_initial.py
+Autenticacion1718G2.settings|1513415682000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/settings.py
+Autenticacion1718G2.urls|1513205005000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/Autenticacion1718G2/urls.py
+manage|1513040906000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/manage.py
+principal.views|1513205001000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/views.py
+principal.__init__|1513040912000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/__init__.py
+principal.tests|1513040914000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/tests.py
+principal.migrations.__init__|1513415831000000000|/Users/Tania/Desktop/GitHub/csv-to-api/Autenticacion1718G2/principal/migrations/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+17
+8=principal.serializers
+10=Usuario
+2=Autenticacion1718G2.wsgi
+13=Migration
+14=UserSerializer
+3=principal.models
+11=UserSerializer.Meta
+5=principal.migrations.0001_initial
+7=principal.apps
+1=Autenticacion1718G2.settings
+6=Autenticacion1718G2.urls
+16=PrincipalConfig
+17=PostUser
+4=principal.views
+12=RoleSerializer.Meta
+15=RoleSerializer
+9=JSONResponse
+-- END DICTIONARY
+-- START TREE 1
+29
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|2|AUTH_PASSWORD_VALIDATORS!11@AUTHENTICATION_BACKENDS!11@
+bas|1|BASE_DIR!11@
+com|1|COMUNIDADES!27@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ema|1|EMAIL_BACKEND!11@
+gen|1|GENEROS!27@
+get|4|getUsersByRole!34@getUsers!34@getRoleUser!34@getUser!34@
+ins|1|INSTALLED_APPS!11@
+jso|1|JSONResponse!33@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!41@
+pos|2|PostUser!33@post_list!51@
+pri|1|PrincipalConfig!57@
+res|1|REST_FRAMEWORK!11@
+rol|2|RoleSerializer!65@ROLES!27@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sit|1|SITE_ID!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!51@
+use|4|USE_TZ!11@UserSerializer!65@USE_I18N!11@USE_L10N!11@
+usu|1|Usuario!25@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+22
+__i|1|__init__!9&34@
+__u|1|__unicode__!10&26@
+age|1|age!10&27@
+aut|1|autonomous_community!10&27@
+cre|2|create!11&66@create!12&66@
+dep|1|dependencies!13&43@
+ema|1|email!10&27@
+fie|2|fields!11&67@fields!12&67@
+gen|1|genre!10&27@
+ini|1|initial!13&43@
+met|2|Meta!14&65@Meta!15&65@
+mod|2|model!11&67@model!12&67@
+msg|1|msg!10&27@
+nam|2|name!10&27@name!16&59@
+ope|1|operations!13&43@
+que|1|queryset!17&35@
+res|1|result!10&27@
+rol|1|role!10&27@
+ser|1|serializer_class!17&35@
+sur|1|surname!10&27@
+use|1|username!10&27@
+usu|1|usuario!10&27@
+-- END TREE
