@@ -4,4 +4,4 @@ python:
 install:
     - "pip install -r requirements.txt"
 script:
-    - "python manage.py test"
+    - "python Autenticacion1718G2/manage.py test"
