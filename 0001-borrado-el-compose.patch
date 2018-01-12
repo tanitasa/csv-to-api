@@ -1,0 +1,29 @@
+From 96063223d740dc770e208fd7c6d22f17644143f7 Mon Sep 17 00:00:00 2001
+From: Tania <tanitasa96@gmail.com>
+Date: Fri, 12 Jan 2018 00:28:35 +0100
+Subject: [PATCH] borrado el compose
+
+---
+ docker-compose.yml | 10 ----------
+ 1 file changed, 10 deletions(-)
+ delete mode 100755 docker-compose.yml
+
+diff --git a/docker-compose.yml b/docker-compose.yml
+deleted file mode 100755
+index 1a712f4..0000000
+--- a/docker-compose.yml
++++ /dev/null
+@@ -1,10 +0,0 @@
+- version: '2'
+- services:
+-   djangorest:
+-     build: .
+-     command: python manage.py runserver 0.0.0.0:8000
+-     volumes:
+-       - .:/code
+-     ports:
+-       - "8000:8000"
+-
+-- 
+2.11.0 (Apple Git-81)
+
